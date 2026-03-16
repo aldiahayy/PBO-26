@@ -208,7 +208,7 @@ class LayangLayang {
     }
 }
 
-public class soal2 {
+public class soal02 {
     public static void main(String[] args) {
         Segitiga s = new Segitiga();
         s.setNilai(6, 4, 5, 5, 6);
