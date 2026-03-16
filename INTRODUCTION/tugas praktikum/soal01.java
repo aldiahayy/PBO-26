@@ -299,7 +299,7 @@ class Mahasiswa {
     }
 }
 
-public class soal1 {
+public class soal01 {
     public static void main(String[] args) {
         Kucing k1 = new Kucing("Kiko","orange",1);
         Motor m1 = new Motor("Yamaha", "Mio", 90);
@@ -364,6 +364,5 @@ public class soal1 {
         s1.info();
         s1.belajar("PBO");
         s1.naikSemester();
-
     }
 }
