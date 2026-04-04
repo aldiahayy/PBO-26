@@ -1,5 +1,5 @@
 package praktikum1;
-public class soal9 {
+public class soal09 {
 
     // instance variables
     public int iv1;   private int iv2;   protected int iv3;   int iv4;
