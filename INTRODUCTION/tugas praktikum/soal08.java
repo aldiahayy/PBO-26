@@ -134,7 +134,7 @@ class TranskripNilaiMataKuliah { // ini adalah class TranskripNilaiMataKuliah
     }
 }
 
-public class soal8 {
+public class soal08 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Nama Mahaiswa: ");
