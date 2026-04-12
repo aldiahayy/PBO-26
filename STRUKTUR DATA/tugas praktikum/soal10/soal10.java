@@ -1,5 +1,5 @@
 package praktikum2.soal10;
-public class main {
+public class soal10 {
     public static void main(String[] args) {
         System.out.println("Stack dengan Array");
         StackArray stackArray = new StackArray();
