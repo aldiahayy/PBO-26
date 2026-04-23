@@ -33,6 +33,6 @@ public class Main01 {
         Ayam object027 = new Ayam(); object027.berkokok();
         Ayam object028 = new Ayam(); object028.berkokok();
         Ayam object029 = new Ayam(); object029.berkokok();
-        Ayam object030 = new Ayam(); object030.berkokok();
+        Ayam object030 = new Ayam(); object030.berkokok()
     }
 }
