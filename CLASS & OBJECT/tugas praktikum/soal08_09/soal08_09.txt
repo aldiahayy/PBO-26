@@ -1,2 +1,2 @@
 8. Untuk masing-masing superclass pada tugas nomor 7, buatlah minimal 2 subclassnya.
-9. Di setiap subclass pada nomor 8 buatlah constructor, overloading constructor, overloading, overriding, method getter dan setter
+9. Di setiap subclass pada nomor 8 buatlah constructor, overloading constructor, overloading, overriding, method getter dan setter.
