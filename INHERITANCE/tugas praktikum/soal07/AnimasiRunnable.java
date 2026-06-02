@@ -1,4 +1,4 @@
-package praktikum5.animasisederhana;
+package praktikum5;
 public class AnimasiRunnable implements Runnable {
     @Override
     public void run() {
