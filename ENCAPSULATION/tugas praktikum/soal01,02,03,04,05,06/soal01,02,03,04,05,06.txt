@@ -1,0 +1,6 @@
+1. Buatlah sebuah project java bernama projectencapsulation
+2. Di dalam project projectencapsulation buatlah dua buah package: myprogram dan test
+3. Di dalam package test buatlah sebuah class Main dengan method main( ) di dalamnya.
+4. Di dalam package myprogram buatlah sebuah abstract class bernama class Manusia yang memiliki field protected: nama, alamat, kemudian siapkan method protected getter dan protected setter untuk field nama, alamat.
+5. Di dalam package myprogram buatlah sebuah class lagi benama class Mahasiswa yang merupakan subclass dari class Manusia. Buatlah field private nim di class Mahasiswa. Buat method public getter dan public setter untuk field: nama, alamat, dan nim. Untuk method getter dan setter untuk field nama dan alamat harus berisi pemanggilan terhadap method getter dan setter field nama dan alamat yang telah kita buat dengan class super di class Manusia, jadi disini kita akan memperagakan penggunaan keyword super. Lakukan overriding terhadap method toString( ) untuk menuliskan String info: Nama, NIM, dan Alamat.
+6. Di dalam package test, pada method main( ) milik class Main buatlah Array List berisi 20 object dari class Mahasiswa kemudian tampilkan nilai field-fieldnya dengan cara memanggil method toString( ) dari masing-masing object Mahasiswa di dalam looping FOR-EACH.
