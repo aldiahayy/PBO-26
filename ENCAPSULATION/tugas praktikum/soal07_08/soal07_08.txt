@@ -1,0 +1,6 @@
+7. Buatlah project baru kemudian buatlah class DetectorTemp kemudian lengkapi dengan atribut suhuCelsius dengan modifier private. Di dalam setter, buatlah validasi agar suhu yang dimasukkan berada dalam rentang manusia normal (35.0 hingga 42.0 derajat). Jika di luar itu, tampilkan pesan peringatan.
+8. Berkaitan dengan soal nomor 7, buatlah class main kemudian lakukan instant object DetectorTemp kemudian lakukan proses input data suhu menggunakan keyboard/console. Buatlah program tersebut seperti menu pilihan:
+1. Baca suhu
+2. Input suhu
+3. Selesai
+Program akan terus-menerus meminta input pilihan, dan jika input tidak sesuai maka program akan memberikan pesan peringatan serta program akan berhenti jika dan hanya jika memilih pilihan selesai.
