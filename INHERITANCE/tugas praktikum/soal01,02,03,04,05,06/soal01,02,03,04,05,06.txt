@@ -1,0 +1,6 @@
+1. Buatlah sebuah project java
+2. Di dalam project tersebut buatlah 10 buah packege berbeda: paket1, paket2, paket3, paket4, paket5, paket6, paket7, paket8, paket9, paket10
+3. Di dalam package-package itu buatlah masing-masing sebuah superclass lima diantaranya harus merupakan superclass abstract
+4. Buatlah sebuah package lagi di dalam project yang kita buat tadi, sebuah package bernama paketinterface. di dalam package interface ini buatlah sebuah interface bernama MyInterface yang berisi method bernama String getStringInfoState( );
+5. Buatlah package test di dalam project yang kita buat tadi. Di dalam package test ini buatlah 10 class yang masing-masing berupakan subclass dari class-class yang berada di paket1, paket2, paket3, paket4, paket5, paket6, paket7, paket8, paket9, paket10. Jadi masing-masing superclass yang telah kita buat akan memiliki satu subclass. Semua subclass ini akan meng-implements interface MyInterface.
+6. Buatlah sebuah class Main di package test untuk memperlihatkan (mensimulasikan) hasil penggunaan superclass, subclass dan interface dari tugas nomor 1 sampai 5.
