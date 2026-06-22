@@ -6,7 +6,6 @@ public class Segitiga extends BangunDatar {
     // Constructor
     public Segitiga(double alas, double tinggi) {
         super("Segitiga");
-
         this.alas = alas;
         this.tinggi = tinggi;
     }
