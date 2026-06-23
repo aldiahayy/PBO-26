@@ -1,4 +1,4 @@
-package bangundatar;
+package praktikum5;
 public class Persegi extends BangunDatar {
     private double sisi;
 
